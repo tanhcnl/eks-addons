@@ -48,7 +48,7 @@ certManager:
 
 # Cluster Autoscaler Values
 clusterAutoscaler:
-  enable: true
+  enable: false
   serviceAccountName:
 
 # External DNS Values
